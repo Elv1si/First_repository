@@ -1,0 +1,46 @@
+.header {
+background-color: black;
+color: white;
+display: flex;
+text-align: left;
+flex-direction: column;
+margin: 0 20%;
+}
+h2{
+    text-align: center;
+}
+.network {
+width: 100%;
+display: flex;
+text-align: left;
+background-color: black;
+}
+.network h1 {
+text-align: left;
+width: 100%;
+}
+.box{
+    margin-top: 20px;
+    border: 3px solid black;
+    width: 400px;
+    margin-left: 2px;
+}
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    margin: 23px;
+}
+button{
+    border: 3px solid black;
+    background-color: yellow;
+    width: 20%;
+    height: 35px;
+}
+img{
+    width: 100px;
+}
+.d-flexx{
+    display: block;
+    height: 350px;
+    width: 100px;
+}
